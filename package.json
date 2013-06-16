@@ -1,0 +1,12 @@
+{
+  "name": "envelope",
+  "version": "0.0.1",
+  "description": "envelope web-mail",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "app": "envelope-src/app"
+  },
+  "devDependencies": {},
+  "engines": { "node": "*" }
+}
